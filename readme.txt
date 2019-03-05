@@ -5,3 +5,4 @@ Git tracks changes of files.
 Create a new branch is quick and simple.
 test merge with --no-ff.
 test issue bug.
+test developer.
